@@ -37,43 +37,53 @@ let funk = asigment();
     if( duel ==="piedra" && funk ==="tijeras"){ 
         comp = "Ganaste :D";
         console.log(comp);
+        alert(comp);
         return comp
 
     }else if(duel ==="piedra" && funk ==="papel"){
         comp = "Pierdes :("
         console.log(comp);
+        alert(comp);
         return comp;
     }else if(duel ==="papel" && funk ==="piedra"){
         comp = "Ganaste :D";
         console.log(comp);
+        alert(comp);
         return comp;
     }else if(duel ==="papel" && funk ==="tijeras"){
         comp = "Pierdes :(";
         console.log(comp);
+        alert(comp);
         return comp;
     }else if(duel ==="tijeras" && funk ==="papel"){
         comp = "Ganaste :D";
         console.log(comp);
+        alert(comp);
         return comp;
     }else if(duel ==="tijeras" && funk ==="piedra"){
         comp = "Pierdes :(";
         console.log(comp);
+        alert(comp);
         return comp;
     }else if(duel ==="tijeras" && funk ==="tijeras"){
         comp = "Empate :(";
         console.log(comp);
+        alert(comp);
         return comp;
     }else if(duel ==="papel" && funk ==="papel"){
         comp = "empate :(";
         console.log(comp);
+        alert(comp);
         return comp;
     }else if(duel ==="piedra" && funk ==="piedra"){
         comp = "empate :(";
         console.log(comp);
+        alert(comp);
         return comp;
     }else{
         comp = "No es una opcion valida";
         console.log(comp);
+        alert(comp);
     }
 }
 
@@ -102,9 +112,9 @@ for(let i =0; i<3; i++){
     
 }
 if(persona > computadora){
-    alert('Ganaste!!');
+    alert('Ganaste carnal!!');
 }else if(computadora> persona){
-    alert("Pierdes");
+    alert("Te ha ganado Robotina");
 }else{alert('sigue jugando')}
 }
 
