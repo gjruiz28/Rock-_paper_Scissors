@@ -90,7 +90,7 @@ let funk = asigment();
 function game(ronda){
     let persona = 0;
     let computadora = 0;
-for(let i =0; i<3; i++){
+for(let i =0; i<5; i++){
     let real = juego();
    
     switch(true){
