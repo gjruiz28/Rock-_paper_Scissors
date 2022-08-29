@@ -1,10 +1,23 @@
 
 
+
+
+
+
+
+
 function juego(comp){
 
-    let pl1 = prompt("piedra, papel o tijeras");
-    let duel= pl1.toLowerCase();
+    const buttons = document.querySelectorAll('button');
+buttons.forEach((button) => {
+    button.addEventListener('click',()=>{
+        let duel = button.id;
+        console.log(duel);
+    });
+});
 
+
+    
 
 
 
@@ -118,7 +131,8 @@ if(persona > computadora){
 }else{alert('sigue jugando')}
 }
 
-game();
+const btn = document.querySelector('#juego');
+btn.addEventListener("click",juego());
 
 
 
