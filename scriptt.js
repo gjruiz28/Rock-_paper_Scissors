@@ -86,14 +86,24 @@ function selectChoice(){
             yourScore++;
             
         }else{console.log("juegale")}
-    
-    
 
-
-
-    
-    document.getElementById('your-score').innerText = yourScore;
+        document.getElementById('your-score').innerText = yourScore;
     document.getElementById('opponent-score').innerText = opponetScore;
+    
+    if ( yourScore===5){
+        document.getElementById('Message').innerText = "WInnner!!"
+        yourScore = 0;
+        opponetScore = 0;
+    } else if (opponetScore === 5){
+        document.getElementById('Message').innerText = "Looser!! "
+        yourScore = 0;
+        opponetScore = 0;
+    }
+
+
+
+    
+    
 
 
 
