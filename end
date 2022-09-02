@@ -1,0 +1,47 @@
+[33mcommit 0f406fd44fb7287dc60b49392758a9a1153c59dd[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mrps-ui[m[33m)[m
+Author: Gilberto <gilbertoruiz28@gmail.com>
+Date:   Wed Aug 31 17:45:49 2022 -0300
+
+    se agrega las rondas de juego
+
+[33mcommit 824679aba63c05ae9b7712f9dc3c7e102377b7cc[m
+Author: Gilberto <gilbertoruiz28@gmail.com>
+Date:   Wed Aug 31 17:32:49 2022 -0300
+
+    fin
+
+[33mcommit da3e8d2d0a927539ec5e5276c48d8a67fca36664[m[33m ([m[1;31morigin/rps-ui[m[33m)[m
+Author: Gilberto <gilbertoruiz28@gmail.com>
+Date:   Sun Aug 28 23:52:42 2022 -0300
+
+    inicio del codigo para el juego
+
+[33mcommit 369d045f5754e40d4f3ba1f50e3f25a3a4e17b5a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mreload[m[33m)[m
+Author: Gilberto <gilbertoruiz28@gmail.com>
+Date:   Wed Aug 17 02:03:49 2022 -0300
+
+    se modifica el numero de rondas a 5
+
+[33mcommit 2734cbc21fce8faea3733f3280030769058699c5[m
+Author: Gilberto <gilbertoruiz28@gmail.com>
+Date:   Wed Aug 17 02:02:18 2022 -0300
+
+    se hace una mini introduccion en html
+
+[33mcommit 8ebc9886369f15a962cd93f5261620d26f37e4be[m
+Author: Gilberto <gilbertoruiz28@gmail.com>
+Date:   Wed Aug 17 01:50:58 2022 -0300
+
+    Fin del codigo java, se puede mejorar con switch
+
+[33mcommit a81d5d61e65feffe01071af7629906411b0a786c[m
+Author: Gilberto <gilbertoruiz28@gmail.com>
+Date:   Mon Aug 15 21:41:21 2022 -0300
+
+    fiin del codigo funcion juego
+
+[33mcommit 55d8e9764d076dbcaa0d32ddb8d8bfcc15270013[m
+Author: Gilberto José Ruiz salazar <108713835+gjruiz28@users.noreply.github.com>
+Date:   Mon Aug 15 18:12:57 2022 -0300
+
+    Initial commit
